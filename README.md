@@ -15,8 +15,7 @@ Here are some of the technologies and tools I frequently work with:
 
 ## My Projects
 * **[Tetris](https://github.com/joanqwerty/Tetris)**
-  
-This is a simple implementation of the classic Tetris game in Java.
+* **[Youtube-mp3](https://github.com/joanqwerty/youtube-mp3)**
 
 
 ## Get in Touch
